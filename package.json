@@ -1,0 +1,23 @@
+{
+  "name": "gym_demo_1",
+  "version": "1.0.0",
+  "description": "This repository contains the source code for a gym website, implemented as a single page application (SPA) using HTML, CSS, and JavaScript.",
+  "main": "generate-og-image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playershyan/gym_demo_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/playershyan/gym_demo_1/issues"
+  },
+  "homepage": "https://github.com/playershyan/gym_demo_1#readme",
+  "dependencies": {
+    "puppeteer": "^24.34.0"
+  }
+}
